@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JiggyJags
-- 👀 I’m interested in 3d Modeling
-- 🌱 I’m currently learning Coding/3d Modeling
-- 💞️ I’m looking to collaborate on Youtube to create advertisements etc or game creation
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Coding
+- 💞️ I’m looking to collaborate on coding projects, or creating useful apps etc.
 - 📫 How to reach me:...
 
 <!---
